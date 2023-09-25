@@ -1,11 +1,11 @@
 import { NgModule } from '@angular/core';
 import { ReactiveFormsModule } from '@angular/forms';
 /*
-  Template Driven VS ReactiveForm (FormGroup + FormControl)
-    Template Driven
-      FormsModule 
-    ReactiveForm (FormGroup + FormControl)
-      ReactiveFormsModule
+  Template Driven VS ReactiveForm (FormGroup + FormControl) OR FormBuilder
+      Template Driven
+          FormsModule 
+      ReactiveForm (FormGroup + FormControl) OR FormBuilder
+          ReactiveFormsModule
 */ 
 
 
